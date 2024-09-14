@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gregoire</h1>
-<h3 align="center">A junior developper</h3>
+<h1 align="center">Oh hello 👨‍💻 I'm Gregoire</h1>
+<h3 align="center">junior developper</h3>
+
+<p>I am currently rebuilding my portfolio and exploring possibilities.</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
