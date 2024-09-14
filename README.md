@@ -1,8 +1,8 @@
-<h1 align="center">Oh hello 👨‍💻 I'm Gregoire</h1>
+<h2 align="center">Oh hello 👨‍💻 I'm Gregoire</h2>
 <h3 align="center">junior developper</h3>
-
-<p>I am currently rebuilding my portfolio and exploring possibilities.</p>
-
+<br><br>
+<p>and I am currently rebuilding my portfolio and exploring possibilities.</p>
+<br><br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/glecler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glecler" height="30" width="40" /></a>
