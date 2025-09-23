@@ -1,7 +1,7 @@
 <h2 align="center">Oh hello 👨‍💻 I'm Gregoire</h2>
-<h3 align="center">junior developper</h3>
+<h3 align="center">software developper</h3>
 <br><br>
-<p>and I am currently rebuilding my portfolio and exploring possibilities.</p>
+<p>and I am currently working on a secret project.</p>
 <br><br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
