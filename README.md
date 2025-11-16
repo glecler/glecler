@@ -1,7 +1,7 @@
 <h2 align="center">Oh hello 👨‍💻 I'm Gregoire</h2>
 <h3 align="center">software developper</h3>
 <br><br>
-<p align="center">and I am currently working on a secret project.</p>
+<p align="left">Currently creating a data pipeline, as well as an in depth dashboard and data analytics tools. </p>
 <br><br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
